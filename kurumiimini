@@ -152,4 +152,3 @@ button.MouseButton1Click:Connect(function()
 	task.wait(2)
 	status.Text = "Made by user67zzz3"
 end)
-```
